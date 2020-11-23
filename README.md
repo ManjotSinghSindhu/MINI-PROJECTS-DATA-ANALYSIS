@@ -7,5 +7,4 @@ The projects include core concepts of Analytics, Statistics and Machine Learning
 2. Hospital Readmissions
 3. Text Classification with Naive Bayes
 4. JSON Exercises
-5. Customer Churn
-6. UBER TRIP DATA ANALYSIS
+5. UBER TRIP DATA ANALYSIS
